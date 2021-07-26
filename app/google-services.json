@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "51771150506",
+    "firebase_url": "https://tick-bc49d-default-rtdb.firebaseio.com",
+    "project_id": "tick-bc49d",
+    "storage_bucket": "tick-bc49d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:51771150506:android:cc94b0006aa897f0bb00d3",
+        "android_client_info": {
+          "package_name": "com.famous.booktrainticket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "51771150506-ogj55s1ogba2e9smq6ip0uthjubspvlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.famous.booktrainticket",
+            "certificate_hash": "a22955d1963cd5786b01356fd464901945f40342"
+          }
+        },
+        {
+          "client_id": "51771150506-j41un1jvupt2pv39k85g1hf7ca3adv9h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHQQz24wPrrYlNplvQFgSxP1Pf1868aus"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "51771150506-j41un1jvupt2pv39k85g1hf7ca3adv9h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
